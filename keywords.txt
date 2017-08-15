@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for DitherLed
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DitherLed			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin				KEYWORD2
+end					KEYWORD2
+update				KEYWORD2
+get_brightness		KEYWORD2
+set_brightness		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DITHER_OFF_VALUE	LITERAL1
+DITHER_ON_VALUE		LITERAL1
